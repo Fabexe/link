@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('font/SpFont.otf') format('truetype');
+}
+
+body {
+    margin-top: 60px;
+    color: #1d2d61;
+    background-image: url('illustrations/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+.sidebar {
+    height: 54px; /* Hauteur du volet de navigation */
+    background-color: #2a418d; /* Couleur de fond */
+    position: fixed;
+    text-align: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-size: 30px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    display: inline-block; /* Affichage en ligne pour les éléments de liste */
+    padding: 10px;
+}
+
+.sidebar ul li a {
+    color: #ffffff; /* Couleur du texte */
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+.sidebar ul li a:hover {
+    background-color: #1f2f64; /* Couleur de fond au survol */
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.overlayTitre {
+    background-color: #1c1c1cd0;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 20px;
+    width: auto;
+}
+
+.overlayTexte {
+    background-color: #1c1c1cd0;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-align: justify;
+    font-size: 15px;
+    border-radius: 20px;
+    width: auto;
+}
+
+.bouton {
+    background-color: #2a418d;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 20px;
+    width: auto;
+    font-family: 'myFont', Arial, Helvetica, sans-serif;
+}
+
+.bouton:hover {
+    background-color: #1f2f64; /* Couleur de fond au survol */
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.content {
+    margin-top: 0px; /* Marge en haut pour éviter de chevaucher le volet de navigation */
+    padding: 20px;
+}
