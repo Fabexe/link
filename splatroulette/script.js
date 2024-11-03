@@ -1,12 +1,12 @@
 let data;
 
   // Load JSON datas
-  fetch('weapons/data.json')
+  fetch('./data.json')
     .then(response => response.json())
     .then(jsonData => {
       data = jsonData;
     })
-    .catch(error => console.error('Erreur lors du chargement du fichier JSON:', error));
+    .catch(error => console.error('Cannot loading the JSON file:', error));
 
   function getRandomInt(min, max) {
     min = Math.ceil(min);
@@ -22,8 +22,25 @@ let data;
     let item = data.find(d => randomInt >= d.min && randomInt <= d.max);
     if (item) {
       document.getElementById('randomText').innerText = item.text;
-      let imageElement = document.getElementById('randomImage');
-      imageElement.src = item.image;
+      let imageElement = document.getElementById('randomWeapon');
+      imageElement.src = item.weapon;
       imageElement.style.display = 'block';
+      
+    }
+
+    if (item) {
+      document.getElementById('randomText').innerText = item.text;
+      let imageElement = document.getElementById('subWeapon');
+      imageElement.src = item.sub;
+      imageElement.style.display = 'block';
+      
+    }
+
+    if (item) {
+      document.getElementById('randomText').innerText = item.text;
+      let imageElement = document.getElementById('specialWeapon');
+      imageElement.src = item.special;
+      imageElement.style.display = 'block';
+      
     }
   }

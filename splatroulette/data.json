@@ -1,0 +1,1146 @@
+[
+    {
+      "min": 0,
+      "max": 0,
+      "text": "Sploosh-o-matic",
+      "weapon": "weapons/0-sploosh-o-matic.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 1,
+      "max": 1,
+      "text": "Neo Sploosh-o-matic",
+      "weapon": "weapons/1-neo_sploosh-o-matic.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "text": "Splattershot Jr.",
+      "weapon": "weapons/2-splattershot_jr.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "text": "Custom Splattershot Jr.",
+      "weapon": "weapons/3-custom_splattershot_jr.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "text": "Splash-o-matic",
+      "weapon": "weapons/4-splash-o-matic.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "text": "Neo Splash-o-matic",
+      "weapon": "weapons/5-neo_splash-o-matic.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "text": "Aerospray MG",
+      "weapon": "weapons/6-aerospray_mg.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "text": "Aerospray RG",
+      "weapon": "weapons/7-aerospray_rg.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "text": "Splattershot",
+      "weapon": "weapons/8-splattershot.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "text": "Tentatek Splattershot",
+      "weapon": "weapons/9-tentatek_splattershot.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "text": "Hero Shot Replica",
+      "weapon": "weapons/10-hero_shot_replica.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "text": "Octo Shot Replica",
+      "weapon": "weapons/11-octo_shot_replica.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "text": "Order Shot Replica",
+      "weapon": "weapons/12-order_shot_replica.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "text": ".52 Gal",
+      "weapon": "weapons/13-52_gal.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "text": ".52 Gal Deco",
+      "weapon": "weapons/14-52_gal_deco.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/318-splattercolor_screen.png"
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "text": "N-ZAP '85",
+      "weapon": "weapons/15-n-zap_85.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "text": "N-ZAP '89",
+      "weapon": "weapons/16-n-zap_89.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "text": "Splattershot Pro",
+      "weapon": "weapons/17-splattershot_pro.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "text": "Forge Splattershot Pro",
+      "weapon": "weapons/18-forge_splattershot_pro.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "text": ".96 Gal",
+      "weapon": "weapons/19-96_gal.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "text": ".96 Gal Deco",
+      "weapon": "weapons/20-96_gal_deco.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 21,
+      "max": 21,
+      "text": "Jet Squelcher",
+      "weapon": "weapons/21-jet_squelcher.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 22,
+      "max": 22,
+      "text": "Custom Jet Squelcher",
+      "weapon": "weapons/22-custom_jet_squelcher.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 23,
+      "max": 23,
+      "text": "Splattershot Nova",
+      "weapon": "weapons/23-splattershot_nova.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 24,
+      "max": 24,
+      "text": "Annaki Splattershot Nova",
+      "weapon": "weapons/24-annaki_splattershot_nova.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/309-inkjet.png"
+    },
+    {
+      "min": 25,
+      "max": 25,
+      "text": "Luna Blaster",
+      "weapon": "weapons/25-luna_blaster.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 26,
+      "max": 26,
+      "text": "Luna Blaster Neo",
+      "weapon": "weapons/26-luna_blaster_neo.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 27,
+      "max": 27,
+      "text": "Order Blaster Replica",
+      "weapon": "weapons/27-order_blaster_replica.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 28,
+      "max": 28,
+      "text": "Blaster",
+      "weapon": "weapons/28-blaster.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 29,
+      "max": 29,
+      "text": "Custom Blaster",
+      "weapon": "weapons/29-custom_blaster.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/317-triple_splashdown.png"
+    },
+    {
+      "min": 30,
+      "max": 30,
+      "text": "Range Blaster",
+      "weapon": "weapons/30-range_blaster.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 31,
+      "max": 31,
+      "text": "Custom Range Blaster",
+      "weapon": "weapons/31-custom_range_blaster.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 32,
+      "max": 32,
+      "text": "Clash Blaster",
+      "weapon": "weapons/32-clash_blaster.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 33,
+      "max": 33,
+      "text": "Clash Blaster Neo",
+      "weapon": "weapons/33-clash_blaster_neo.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 34,
+      "max": 34,
+      "text": "Rapid Blaster",
+      "weapon": "weapons/34-rapid_blaster.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 35,
+      "max": 35,
+      "text": "Rapid Blaster Deco",
+      "weapon": "weapons/35-rapid_blaster_deco.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/309-inkjet.png"
+    },
+    {
+      "min": 36,
+      "max": 36,
+      "text": "Rapid Blaster Pro",
+      "weapon": "weapons/36-rapid_blaster_pro.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 37,
+      "max": 37,
+      "text": "Rapid Blaster Pro Deco",
+      "weapon": "weapons/37-rapid_blaster_pro_deco.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 38,
+      "max": 38,
+      "text": "S-BLAST '92",
+      "weapon": "weapons/38-s-blast_92.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 39,
+      "max": 39,
+      "text": "S-BLAST '91",
+      "weapon": "weapons/39-s-blast_91.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 40,
+      "max": 40,
+      "text": "L-3 Nozzlenose",
+      "weapon": "weapons/40-l-3_nozzlenose.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 41,
+      "max": 41,
+      "text": "L-3 Nozzlenos D",
+      "weapon": "weapons/41-l-3_nozzlenose_d.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 42,
+      "max": 42,
+      "text": "H-3 Nozzlenose",
+      "weapon": "weapons/42-h-3_nozzlenose.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 43,
+      "max": 43,
+      "text": "H-3 Nozzlenose D",
+      "weapon": "weapons/43-h-3_nozzlenose_d.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 44,
+      "max": 44,
+      "text": "Squeezer",
+      "weapon": "weapons/44-squeezer.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 45,
+      "max": 45,
+      "text": "Foil Squeezer",
+      "weapon": "weapons/45-foil_squeezer.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/318-splattercolor_screen.png"
+    },
+    {
+      "min": 46,
+      "max": 46,
+      "text": "Carbon Roller",
+      "weapon": "weapons/46-carbon_roller.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 47,
+      "max": 47,
+      "text": "Carbon Roller Deco",
+      "weapon": "weapons/47-carbon_roller_deco.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 48,
+      "max": 48,
+      "text": "Splat Roller",
+      "weapon": "weapons/48-splat_roller.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 49,
+      "max": 49,
+      "text": "Krak-on Splat Roller",
+      "weapon": "weapons/49-krack-on_splat_roller.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 50,
+      "max": 50,
+      "text": "Order Splat Roller",
+      "weapon": "weapons/50-order_roller_replica.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 51,
+      "max": 51,
+      "text": "Dynamo Roller",
+      "weapon": "weapons/51-dynamo_roller.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 52,
+      "max": 52,
+      "text": "Gold Dynamo Roller",
+      "weapon": "weapons/52-gold_dynamo_roller.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 53,
+      "max": 53,
+      "text": "Flingza Roller",
+      "weapon": "weapons/53-flingza_roller.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/303-tenta_missiles.png"
+    },
+    {
+      "min": 54,
+      "max": 54,
+      "text": "Foil Flingza Roller",
+      "weapon": "weapons/54-foil_flingza_roller.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/318-splattercolor_screen.png"
+    },
+    {
+      "min": 55,
+      "max": 55,
+      "text": "Big Swig Roller",
+      "weapon": "weapons/55-big_swig_roller.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 56,
+      "max": 56,
+      "text": "Big Swig Roller Express",
+      "weapon": "weapons/56-big_swig_roller_express.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 57,
+      "max": 57,
+      "text": "Inkbrush",
+      "weapon": "weapons/57-inkbrush.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 58,
+      "max": 58,
+      "text": "Inkbrush Nouveau",
+      "weapon": "weapons/58-inkbrush_nouveau.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 59,
+      "max": 59,
+      "text": "Octobrush",
+      "weapon": "weapons/59-octobrush.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 60,
+      "max": 60,
+      "text": "Octobrush Nouveau",
+      "weapon": "weapons/60-octobrush_nouveau.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 61,
+      "max": 61,
+      "text": "Orderbrush Replica",
+      "weapon": "weapons/61-orderbrush_replica.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 62,
+      "max": 62,
+      "text": "Painbrush",
+      "weapon": "weapons/62-painbrush.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 63,
+      "max": 63,
+      "text": "Painbrush Nouveau",
+      "weapon": "weapons/63-painbrush_nouveau.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/303-tenta_missiles.png"
+    },
+    {
+      "min": 64,
+      "max": 64,
+      "text": "Classic Squiffer",
+      "weapon": "weapons/64-classic_squiffer.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 65,
+      "max": 65,
+      "text": "New Squiffer",
+      "weapon": "weapons/65-new_squiffer.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 66,
+      "max": 66,
+      "text": "Splat Charger",
+      "weapon": "weapons/66-splat_charger.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 67,
+      "max": 67,
+      "text": "Z+F Splat Charger",
+      "weapon": "weapons/67-z_f_splat_charger.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 68,
+      "max": 68,
+      "text": "Order Charger Replica",
+      "weapon": "weapons/68-order_charger_replica.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 69,
+      "max": 69,
+      "text": "Splatterscope",
+      "weapon": "weapons/69-splatterscope.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 70,
+      "max": 70,
+      "text": "Z+F Splatterscope",
+      "weapon": "weapons/70-z_f_splatterscope.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 71,
+      "max": 71,
+      "text": "E-liter 4K",
+      "weapon": "weapons/71-e-liter_4k.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 72,
+      "max": 72,
+      "text": "Custom E-liter 4K",
+      "weapon": "weapons/72-custom_e-liter_4k.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 73,
+      "max": 73,
+      "text": "E-liter 4K Scope",
+      "weapon": "weapons/73-e-liter_4k_scope.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 74,
+      "max": 74,
+      "text": "Custom E-liter 4K Scope",
+      "weapon": "weapons/74-custom_e-liter_4k_scope.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 75,
+      "max": 75,
+      "text": "Bamboozler 14 Mk I",
+      "weapon": "weapons/75-bamboozler_14_mk_i.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 76,
+      "max": 76,
+      "text": "Bamboozler 14 Mk II",
+      "weapon": "weapons/76-bamboozler_14_mk_ii.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 77,
+      "max": 77,
+      "text": "Goo Tuber",
+      "weapon": "weapons/77-goo_tuber.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/303-tenta_missiles.png"
+    },
+    {
+      "min": 78,
+      "max": 78,
+      "text": "Custom Goo Tuber",
+      "weapon": "weapons/78-custom_goo_tuber.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 79,
+      "max": 79,
+      "text": "Snipewriter 5H",
+      "weapon": "weapons/79-snipewriter_5h.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 80,
+      "max": 80,
+      "text": "Snipewriter 5B",
+      "weapon": "weapons/80-snipewriter_5b.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 81,
+      "max": 81,
+      "text": "Slosher",
+      "weapon": "weapons/81-slosher.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 82,
+      "max": 82,
+      "text": "Slosher Deco",
+      "weapon": "weapons/82-slosher_deco.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 83,
+      "max": 83,
+      "text": "Order Slosher Replica",
+      "weapon": "weapons/83-order_slosher_replica.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 84,
+      "max": 84,
+      "text": "Tri-Slosher",
+      "weapon": "weapons/84-tri-slosher.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/309-inkjet.png"
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "text": "Tri-Slosher Nouveau",
+      "weapon": "weapons/85-tri-slosher_nouveau.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "text": "Sloshing Machine",
+      "weapon": "weapons/86-sloshing_machine.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "text": "Sloshing Machine Neo",
+      "weapon": "weapons/87-sloshing_machine_neo.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "text": "Bloblobber",
+      "weapon": "weapons/88-bloblobber.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "text": "Bloblobber Deco",
+      "weapon": "weapons/89-bloblobber_deco.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "text": "Explosher",
+      "weapon": "weapons/90-explosher.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "text": "Custom Explosher",
+      "weapon": "weapons/91-custom_explosher.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/317-triple_splashdown.png"
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "text": "Dread Wringer",
+      "weapon": "weapons/92-dread_wringer.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "text": "Dread Wringer D",
+      "weapon": "weapons/93-dread_wringer_d.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "text": "Mini Splatling",
+      "weapon": "weapons/94-mini_splatling.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "text": "Zink Mini Splatling",
+      "weapon": "weapons/95-zink_mini_splatling.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "text": "Heavy Splatling",
+      "weapon": "weapons/96-heavy_splatling.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "text": "Heavy Splatling Deco",
+      "weapon": "weapons/97-heavy_splatling_deco.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/316-kraken_royale.png"
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "text": "Order Splatling Replica",
+      "weapon": "weapons/98-order_splatling_replica.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "text": "Hydra Splatling",
+      "weapon": "weapons/99-hydra_splatling.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "text": "Custom Hydra Splatling",
+      "weapon": "weapons/100-custom_hydra_splatling.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/318-splattercolor_screen.png"
+    },
+    {
+      "min": 101,
+      "max": 101,
+      "text": "Ballpoint Splatling",
+      "weapon": "weapons/101-ballpoint_splatling.jpg",
+      "sub": "bombs/205-fizzy_bomb.png",
+      "special": "specials/309-inkjet.png"
+    },
+    {
+      "min": 102,
+      "max": 102,
+      "text": "Ballpoint Splatling Nouveau",
+      "weapon": "weapons/102-ballpoint_splatling_nouveau.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 103,
+      "max": 103,
+      "text": "Nautilus 47",
+      "weapon": "weapons/103-nautilus_47.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/304-ink_storm.png"
+    },
+    {
+      "min": 104,
+      "max": 104,
+      "text": "Nautilus 79",
+      "weapon": "weapons/104-nautilus_79.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/317-triple_splashdown.png"
+    },
+    {
+      "min": 105,
+      "max": 105,
+      "text": "Heavy Edit Splatling",
+      "weapon": "weapons/105-heavy_edit_splatling.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 106,
+      "max": 106,
+      "text": "Heavy Splatling Nouveau",
+      "weapon": "weapons/106-heavy_edit_splatling_nouveau.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 107,
+      "max": 107,
+      "text": "Dapple Dualies",
+      "weapon": "weapons/107-dapple_dualies.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/314-tacticooler.png"
+    },
+    {
+      "min": 108,
+      "max": 108,
+      "text": "Dapple Dualies Nouveau",
+      "weapon": "weapons/108-dapple_dualies_nouveau.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 109,
+      "max": 109,
+      "text": "Splat Dualies",
+      "weapon": "weapons/109-splat_dualies.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 110,
+      "max": 110,
+      "text": "Enperry Splat Dualies",
+      "weapon": "weapons/110-enperry_splat-dualies.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/317-triple_splashdown.png"
+    },
+    {
+      "min": 111,
+      "max": 111,
+      "text": "Order Dualie Replicas",
+      "weapon": "weapons/111-order_dualies_replicas.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 112,
+      "max": 112,
+      "text": "Glooga Dualies",
+      "weapon": "weapons/112-glooga_dualies.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/305-booyah_bomb.png"
+    },
+    {
+      "min": 113,
+      "max": 113,
+      "text": "Glooga Dualies Deco",
+      "weapon": "weapons/113-glooga_dualies_deco.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 114,
+      "max": 114,
+      "text": "Dualie Squelchers",
+      "weapon": "weapons/114-dualie_squelchers.jpg",
+      "sub": "bombs/200-splat_bomb.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 115,
+      "max": 115,
+      "text": "Custom Dualie Squelchers",
+      "weapon": "weapons/115-custom_dualie_squelchers.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 116,
+      "max": 116,
+      "text": "Dark Tetra Dualies",
+      "weapon": "weapons/116-dark_tetra_dualies.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 117,
+      "max": 117,
+      "text": "Light Tetra Dualies",
+      "weapon": "weapons/117-light_tetra_dualies.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 118,
+      "max": 118,
+      "text": "Douser Dualies FF",
+      "weapon": "weapons/118-douser_dualies_ff.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 119,
+      "max": 119,
+      "text": "Custom Douser Dualies FF",
+      "weapon": "weapons/119-custom_douser_dualies_ff.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 120,
+      "max": 120,
+      "text": "Splat Brella",
+      "weapon": "weapons/120-splat_brella.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 121,
+      "max": 121,
+      "text": "Sorella Brella",
+      "weapon": "weapons/121-sorella_brella.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/309-inkjet.png"
+    },
+    {
+      "min": 122,
+      "max": 122,
+      "text": "Order Brella Replica",
+      "weapon": "weapons/122-order_brella_replica.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/313-triple_inkstrike.png"
+    },
+    {
+      "min": 123,
+      "max": 123,
+      "text": "Tenta Brella",
+      "weapon": "weapons/123-tenta_brella.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/307-ink_vac.png"
+    },
+    {
+      "min": 124,
+      "max": 124,
+      "text": "Tenta Sorella Brella",
+      "weapon": "weapons/124-tenta_sorella_brella.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/300-trizooka.png"
+    },
+    {
+      "min": 125,
+      "max": 125,
+      "text": "Undercover Brella",
+      "weapon": "weapons/125-undercover_brella.jpg",
+      "sub": "bombs/210-ink_mine.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 126,
+      "max": 126,
+      "text": "Undercover Sorella Brella",
+      "weapon": "weapons/126-undercover_sorella_brella.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/318-splattercolor_screen.png"
+    },
+    {
+      "min": 127,
+      "max": 127,
+      "text": "Recycled Brella 24 Mk I",
+      "weapon": "weapons/127-recycled_brella_24_mk_i.jpg",
+      "sub": "bombs/212-angle_shooter.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 128,
+      "max": 128,
+      "text": "Recycled Brella 24 Mk II",
+      "weapon": "weapons/128-recycled_brella_24_mk_ii.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/317-triple_splashdown.png"
+    },
+    {
+      "min": 129,
+      "max": 129,
+      "text": "Tri-Stringer",
+      "weapon": "weapons/129-tri-stringer.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 130,
+      "max": 130,
+      "text": "Inkline Tri-Stringer",
+      "weapon": "weapons/130-inkline_tri-stringer.jpg",
+      "sub": "bombs/203-sprinkler.png",
+      "special": "specials/315-super_chump.png"
+    },
+    {
+      "min": 131,
+      "max": 131,
+      "text": "Order Tri-Stringer",
+      "weapon": "weapons/131-order_stringer_replica.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/308-killer_wail_5_1.png"
+    },
+    {
+      "min": 132,
+      "max": 132,
+      "text": "REEF-LUX 450",
+      "weapon": "weapons/132-reef-lux_450.jpg",
+      "sub": "bombs/206-curling_bomb.png",
+      "special": "specials/303-tenta_missiles.png"
+    },
+    {
+      "min": 133,
+      "max": 133,
+      "text": "REEF-LUX 450 Deco",
+      "weapon": "weapons/133-reef-lux_450_deco.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/312-reefslider.png"
+    },
+    {
+      "min": 134,
+      "max": 134,
+      "text": "Wellstring V",
+      "weapon": "weapons/134-wellstring_v.jpg",
+      "sub": "bombs/207-autobomb.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 135,
+      "max": 135,
+      "text": "Custom Wellstring V",
+      "weapon": "weapons/135-custom_wellstring_v.jpg",
+      "sub": "bombs/209-point_sensor.png",
+      "special": "specials/306-wave_breaker.png"
+    },
+    {
+      "min": 136,
+      "max": 136,
+      "text": "Splatana Stamper",
+      "weapon": "weapons/136-splatana_stamper.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 137,
+      "max": 137,
+      "text": "Splatana Stamper Nouveau",
+      "weapon": "weapons/137-splatana_stamper_nouveau.jpg",
+      "sub": "bombs/211-toxic_mist.png",
+      "special": "specials/311-crab_tank.png"
+    },
+    {
+      "min": 138,
+      "max": 138,
+      "text": "Order Splatana Replica",
+      "weapon": "weapons/138-order_splatana_replica.jpg",
+      "sub": "bombs/202-burst_bomb.png",
+      "special": "specials/302-zipcaster.png"
+    },
+    {
+      "min": 139,
+      "max": 139,
+      "text": "Splatana Wiper",
+      "weapon": "weapons/139-splatana_wiper.jpg",
+      "sub": "bombs/213-torpedo.png",
+      "special": "specials/310-ultra_stamp.png"
+    },
+    {
+      "min": 140,
+      "max": 140,
+      "text": "Splatana Wiper Deco",
+      "weapon": "weapons/140-splatana_wiper_deco.jpg",
+      "sub": "bombs/208-squid_beakon.png",
+      "special": "specials/303-tenta_missiles.png"
+    },
+    {
+      "min": 141,
+      "max": 141,
+      "text": "Mint Decavitator",
+      "weapon": "weapons/141-mint_decavitator.jpg",
+      "sub": "bombs/201-suction_bomb.png",
+      "special": "specials/301-big_bubbler.png"
+    },
+    {
+      "min": 142,
+      "max": 142,
+      "text": "Charcoal Decavitator",
+      "weapon": "weapons/142-charcoal_decavitator.jpg",
+      "sub": "bombs/204-splash_wall.png",
+      "special": "specials/309-inkjet.png"
+    }
+]

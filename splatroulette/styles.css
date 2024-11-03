@@ -10,6 +10,8 @@ body {
     background-attachment: fixed;
     background-size: cover;
     font-family: 'myFont', Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
 }
 
 .sidebar {
@@ -47,7 +49,7 @@ body {
     border-radius: 15px;
 }
 
-.overlayTitre {
+.overlayTitle {
     background-color: #1c1c1cd0;
     border: none;
     color: white;
@@ -55,36 +57,59 @@ body {
     text-decoration: none;
     font-size: 30px;
     border-radius: 20px;
-    width: auto;
+    text-align: center;
+    
 }
 
-.overlayTexte {
+.overlayWeapon {
+    margin: auto;
     background-color: #1c1c1cd0;
     border: none;
-    color: white;
-    padding: 10px;
+    color: rgb(255, 255, 255);
+    padding: 50px;
     text-decoration: none;
-    text-align: justify;
-    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 20px;
+    width: 260px;
+
+}
+
+.pictureBorder {
+    margin: auto;
+    background-color: #1c1c1cd0;
+    justify-content: center;
+    text-align: center;
     border-radius: 20px;
     width: auto;
 }
 
-.bouton {
+.pictureBorder2 {
+    margin: 10px;
+    background-color: #1c1c1cd0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    width: 92px;
+}
+
+.button {
     background-color: #2a418d;
     border: none;
     color: white;
-    padding: 10px;
+    padding: 20px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 30px;
     border-radius: 20px;
     width: auto;
     font-family: 'myFont', Arial, Helvetica, sans-serif;
 }
 
-.bouton:hover {
+.button:hover {
     background-color: #1f2f64; /* Couleur de fond au survol */
-    padding: 10px;
+    padding: 20px;
     border-radius: 20px;
 }
 
