@@ -4,7 +4,7 @@
 }
 
 body {
-    margin-top: 60px;
+    margin-top: 56px;
     color: #1d2d61;
     background-image: url('illustrations/background.jpg');
     background-attachment: fixed;
@@ -15,14 +15,14 @@ body {
 }
 
 .sidebar {
-    height: 54px; /* Hauteur du volet de navigation */
+    height: 40px; /* Hauteur du volet de navigation */
     background-color: #2a418d; /* Couleur de fond */
     position: fixed;
     text-align: center;
     top: 0;
     left: 0;
     width: 100%;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .sidebar ul {
@@ -55,7 +55,7 @@ body {
     color: white;
     padding: 10px;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     border-radius: 20px;
     text-align: center;
     
@@ -66,13 +66,13 @@ body {
     background-color: #1c1c1cd0;
     border: none;
     color: rgb(255, 255, 255);
-    padding: 50px;
+    padding: 30px;
     text-decoration: none;
     justify-content: center;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     border-radius: 20px;
-    width: 260px;
+    width: 250px;
 
 }
 
@@ -82,7 +82,7 @@ body {
     justify-content: center;
     text-align: center;
     border-radius: 20px;
-    width: auto;
+    width: 200px;
 }
 
 .pictureBorder2 {
@@ -91,8 +91,8 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border-radius: 20px;
-    width: 92px;
+    border-radius: 10px;
+    width: 50px;
 }
 
 .button {
@@ -101,7 +101,7 @@ body {
     color: white;
     padding: 20px;
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     border-radius: 20px;
     width: auto;
     font-family: 'myFont', Arial, Helvetica, sans-serif;
